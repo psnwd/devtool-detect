@@ -1,6 +1,6 @@
 # devtool-detect
 
-```
+```json
 {
    "mobileDetectRules":{
       "phones":{
